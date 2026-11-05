@@ -1,0 +1,20 @@
+{
+  "name": "elnemer70/php-word-embed",
+  "description": "Word embedding lookup with cosine nearest neighbor",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElNeMeR70\\\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mahmoud ElNemer",
+      "email": "sultanelnemer@gmail.com"
+    }
+  ]
+}
